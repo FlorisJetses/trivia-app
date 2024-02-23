@@ -1,0 +1,9 @@
+.heading {
+    font-family: "Comic sans ms", arial;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: mediumpurple;
+    font-weight: bold;
+    text-shadow: 3px 3px yellow;
+    margin-bottom: 1rem;
+}

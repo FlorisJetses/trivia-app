@@ -1,0 +1,21 @@
+.split-screen {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 100%;
+    grid-gap: 0;
+}
+
+.grid-item {
+    width: 100%;
+    text-align: center;
+    transition: all 0.6s ease;
+}
+
+.form {
+    position: absolute;
+    top: 50%;
+    transform: translatey(-50%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}

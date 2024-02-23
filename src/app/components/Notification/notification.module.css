@@ -1,0 +1,23 @@
+.notification {
+    font-size: 2.5rem;
+}
+
+.notification button {
+    font-size: 2.5rem;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    padding: 1rem;
+}
+
+.notification p {
+    font-family: "Comic sans ms", arial;
+    font-size: 1em;
+    text-transform: uppercase;
+    color: lime;
+    font-weight: bold;
+    text-shadow: 3px 3px blue;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
